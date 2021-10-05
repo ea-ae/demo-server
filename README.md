@@ -1,6 +1,6 @@
 # Demo Server
 
-Demo Server is a multiplayer game server written in C++. The server uses a custom network protocol built on top of UDP, that implements multiple features such as a snapshot system, network entities, and reliable packets.
+Demo Server is a multiplayer game server written in C++. The server uses a custom network protocol built on top of UDP that implements features such as a snapshot system, message/network entities, and reliable packets.
 
 ## Usage
 
@@ -39,4 +39,4 @@ Check the [project board](https://github.com/ea-ae/demo-server/projects/1) for t
 
 ## About
 
-Created as a self-learning & school project in 2020.
+Created as a learn-by-doing (first proper experience with C++) and school project in 2020.
